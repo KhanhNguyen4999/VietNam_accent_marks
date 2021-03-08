@@ -1,0 +1,1 @@
+Mở file HTML trên browser và nhập 2 chuỗi muốn tính khoảng cách
